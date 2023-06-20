@@ -1,0 +1,7 @@
+{
+    "sketch": "ESP32-CAM_MJPEG2SD.ino",
+    "configuration": "CPUFreq=240,FlashMode=qio,PartitionScheme=min_spiffs,FlashFreq=80,DebugLevel=info,EraseFlash=all",
+    "board": "esp32:esp32:esp32cam",
+    "programmer": "esptool",
+    "port": "/dev/tty.usbserial-14240"
+}
